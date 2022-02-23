@@ -1,0 +1,31 @@
+h3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.fa {
+  margin-right: 10px;
+}
+
+.fa-check-circle {
+  font-size: 60px;
+  color: green;
+}
+
+.fa-times-circle {
+  font-size: 60px;
+  color: red;
+}
+
+.fa-repeat {
+  font-size: 40px;
+  color: #fff;
+}
+/*# sourceMappingURL=styles.css.map */
